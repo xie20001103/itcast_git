@@ -6,5 +6,5 @@ package com.itheima.pojo;
  * 2019-11-13  20:49
  */
 public class Test {
-    private String User;
+    private String Test;
 }

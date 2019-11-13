@@ -6,16 +6,9 @@ package com.itheima.pojo;
  * 2019-11-13  20:14
  */
 public class User {
-    private String name;
+    private String Test;
     private String password;
 
-    public String getName() {
-        return name;
-    }
-
-    public void setName(String name) {
-        this.name = name;
-    }
 
     public String getPassword() {
         return password;
